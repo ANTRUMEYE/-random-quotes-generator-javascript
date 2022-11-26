@@ -3,7 +3,7 @@
 
 In this quote app, each time you click on the new quote button you'll get a new quote. You can also convert a quote to speech, copy a quote, or share a quote on Twitter by clicking the given button.
  
- [View Live Demo](https://codingnepalweb.com/demos/random-quote-generator/)
+ [View Live Demo]( https://antrumeye.github.io/-random-quotes-generator-javascript/)
 
 ## Screenshots
 
